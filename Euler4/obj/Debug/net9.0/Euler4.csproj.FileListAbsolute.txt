@@ -1,0 +1,15 @@
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/bin/Debug/net9.0/Euler4
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/bin/Debug/net9.0/Euler4.deps.json
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/bin/Debug/net9.0/Euler4.runtimeconfig.json
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/bin/Debug/net9.0/Euler4.dll
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/bin/Debug/net9.0/Euler4.pdb
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/Euler4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/Euler4.AssemblyInfoInputs.cache
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/Euler4.AssemblyInfo.cs
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/Euler4.csproj.CoreCompileInputs.cache
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/Euler4.sourcelink.json
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/Euler4.dll
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/refint/Euler4.dll
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/Euler4.pdb
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/Euler4.genruntimeconfig.cache
+/Users/joshuawyckoff/Desktop/Coding/Project_Euler/Euler4/obj/Debug/net9.0/ref/Euler4.dll
